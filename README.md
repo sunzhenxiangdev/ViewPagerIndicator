@@ -1,6 +1,6 @@
-#自定义的ViewPager的指示线
+# 自定义的ViewPager的指示线
 
-###How to use
+### How to use
            
         mViewPager = (ViewPager) findViewById(R.id.viewpager);
         iv_main_indicator = (IndicatorView) findViewById(R.id.iv_main_indicator);
@@ -11,7 +11,7 @@
         iv_main_indicator.setTriangleWidth(10);
         iv_main_indicator.setViewPager(mViewPager);
         
-###LICENSE
+### LICENSE
 
         MIT License
         Copyright (c) 2017 孙振祥
