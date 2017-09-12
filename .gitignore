@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 ### Android template
+=======
+>>>>>>> a8d5d334ebeee19c7757a74e0432657eca96cb85
 # Built application files
 *.apk
 *.ap_
@@ -36,6 +39,8 @@ captures/
 
 # Intellij
 *.iml
+.idea/tasks.xml
+.idea/dictionaries
 
 # Keystore files
 *.jks
@@ -50,5 +55,5 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
-.idea
 
+.idea

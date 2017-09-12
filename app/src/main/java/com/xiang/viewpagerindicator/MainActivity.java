@@ -24,9 +24,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        mViewPager = (ViewPager) findViewById(R.id.viewpager);
         t1 = (TextView) findViewById(R.id.t1);
         t2 = (TextView) findViewById(R.id.t2);
+        mViewPager = (ViewPager) findViewById(R.id.viewpager);
         iv_main_indicator = (IndicatorView) findViewById(R.id.iv_main_indicator);
 
 
